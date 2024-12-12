@@ -3,6 +3,7 @@
 
 ## PageLink
 [페이지 바로가기](https://jjjen23.github.io/Comento-1st/index.html)
+⚠️50%의 화면 배율에 맞추어 설계됨⚠️
 ## Page1 : ABOUT ME2
 ![image](https://github.com/user-attachments/assets/09815683-2cd2-4c43-a756-d3c758510f20)
 ## Page2 : LICENSE & CERTIFICATE
