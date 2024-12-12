@@ -1,0 +1,51 @@
+.projectTotal {
+  position: relative;
+  top: 150px;
+}
+.title11 {
+  /* background-color: #FFB049; */
+  margin: 0 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
+  color: black; 
+  font-size: 39px;
+  margin-bottom: 30px;
+}
+.list1 {
+    /* background-color: #2469a1; */
+    margin: 0 100px;
+    font-weight: 500;
+    color: black; 
+    font-size: 28px;
+    line-height: 2;
+    text-align: center;
+}
+.title22 {
+  /* background-color: #FFB049; */
+  margin: 0 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
+  color: black; 
+  font-size: 39px;
+  margin-top: 150px;
+  margin-bottom: 30px;
+}
+.list2 {
+  margin: 0 100px;
+  font-weight: 500;
+  color: black; 
+  font-size: 28px;
+  line-height: 2;
+  text-align: center;
+}
+a {
+  text-decoration: none; 
+  color: inherit;
+}
+a:hover, a:focus {
+  color: palevioletred; 
+}

@@ -1,0 +1,74 @@
+.imgDiv {
+  /* border: 1px rgba(0, 0, 0, 0.17) solid; */
+  /* background-color: #D9D9D9; */
+  /* background-color: #FD5F5F; */
+  display: flex;
+  justify-content: center;
+  position: relative;
+  top: 80px;
+}
+.profileimg{
+  width: 400px;
+  height: 402px;
+}
+.name{
+  /* background-color: pink; */
+  padding: 35px;
+  position: relative;
+  top: 80px;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
+  color: black; 
+  font-size: 40px;
+}
+
+.introGroup {
+  position: relative;
+  height: 200px;
+  top: 110px;
+  /* background-color: #75D56E; */
+  margin: 0 100px;
+}
+
+.title {
+  font-weight: bold;
+  color: black; 
+  font-size: 35px;
+  display: flex;
+  align-items: center;
+  justify-content: start;
+}
+
+.text {
+  color: black; 
+  font-size: 28px;
+  margin-top: 20px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  justify-content: start;
+  line-height: 1.5;
+}
+
+.contactGroup {
+  position: relative;
+  height: 180px;
+  top: 140px;
+  /* background-color: #FFB049; */
+  margin: 0 100px;
+}
+.iconbox {
+  height: 100px;
+  /* background-color: #FD5F5F; */
+  display: flex;
+  align-items: center;
+  justify-self: center;
+}
+.githubicon {
+  width: 70px;
+  height: 70px;
+}
