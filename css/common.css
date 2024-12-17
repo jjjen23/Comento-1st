@@ -74,43 +74,16 @@
   background-color: #F5F5F5;
   box-shadow: 5px 5px 50px 2px rgba(0, 0, 0, 0.35);
 }
-
-.imgDiv {
-  /* border: 1px rgba(0, 0, 0, 0.17) solid; */
-  /* background-color: #D9D9D9; */
-  background-color: #FD5F5F;
-  display: flex;
-  justify-content: center;
-  position: relative;
-  top: 80px;
-}
-.profileimg{
-  width: 400px;
-  height: 402px;
-}
-.name{
-  background-color: pink;
-  padding: 35px;
-  position: relative;
-  top: 80px;
-  height: 50px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  font-weight: bold;
-  color: black; 
-  font-size: 40px;
-}
 .popupTop {
   position: relative;
   top: 0px;
-  width: 1000px;
+  width: 100%;
   height: 60px;
   background: #D9D9D9;
   border-top-left-radius: 30px;
   border-top-right-radius: 30px;
-  border: 1px rgba(0, 0, 0, 0.17) solid;
-  box-sizing: border-box;
+  /* border: 2px rgba(0, 0, 0, 0.17) solid; */
+  /* box-sizing: border-box; */
 }
 .group {
   width: 80px;
@@ -140,60 +113,11 @@
   background: #75D56E;
   border-radius: 50%;
 }
-.Line1 {
-  width: 1px;
-  height: 100vh;
-  position: absolute;
-  top:0;
-  left: 50%;
-  transform: translateX(-50%);
-  /* background-color: black; */
+.rightscreen a {
+  text-decoration: none; 
+  color: inherit;
 }
-
-.introGroup {
-  position: relative;
-  height: 200px;
-  top: 110px;
-  background-color: #75D56E;
-  margin: 0 100px;
-}
-
-.title {
-  font-weight: bold;
-  color: black; 
-  font-size: 35px;
-  display: flex;
-  align-items: center;
-  justify-content: start;
-}
-
-.text {
-  color: black; 
-  font-size: 28px;
-  margin-top: 20px;
-  font-weight: 500;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  justify-content: start;
-  line-height: 1.5;
-}
-
-.contactGroup {
-  position: relative;
-  height: 180px;
-  top: 140px;
-  background-color: #FFB049;
-  margin: 0 100px;
-}
-.iconbox {
-  height: 100px;
-  background-color: #FD5F5F;
-  display: flex;
-  align-items: center;
-  justify-self: center;
-}
-.githubicon {
-  width: 70px;
-  height: 70px;
+.rightscreen a:hover, a:focus {
+  text-decoration: none; 
+  color: white; 
 }

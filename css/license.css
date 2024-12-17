@@ -50,3 +50,6 @@
   font-size: 28px;
   line-height: 1.7;
 }
+li {
+  list-style-type: none;
+}
