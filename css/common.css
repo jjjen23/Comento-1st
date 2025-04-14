@@ -63,6 +63,7 @@
   justify-content: center; /* 가로 중앙 정렬 */
   align-items: center; /* 세로 중앙 정렬 */
   background-image: url(./../ASSET/Wallpaper.jpg);
+  /* background-image: url(https://내아이디.github.io/리포지토리명/img/image.jpg); */
 }
 .popupMain {
   position: absolute;
